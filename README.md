@@ -6,6 +6,7 @@ This project focuses on analyzing supermarket sales data using Microsoft Excel. 
 
 The objective is to organize sales data, summarize business performance, and identify patterns that can support retail decision-making.
 
+
 ## Business Problem
 
 Retail businesses need to understand which product lines generate sales, how performance varies across branches and cities, what payment methods customers use, and when transactions occur. This project uses Excel-based analysis to explore these questions and turn transaction data into understandable business insights.
@@ -121,9 +122,10 @@ Adjust the file names to match the files you upload. Add a dashboard screenshot 
 - Document important findings and recommendations based on validated results.
 - Add screenshots of the dashboard and selected PivotTables to the repository.
 
+
+
 ## Author
 
 **Rushikesh Palade**
-
 - **GitHub:**  https://github.com/rushikeshpalde02-zip
 - **LinkedIn:** https://www.linkedin.com/in/RushikeshPalade
